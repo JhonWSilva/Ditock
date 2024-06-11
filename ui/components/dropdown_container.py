@@ -26,7 +26,6 @@ class DropDownContainer:
         )
 
         return ft.Container(
-            bgcolor="white",
             padding=ft.padding.all(5),
             shadow=ft.BoxShadow(
                 color=ft.colors.BLACK12, blur_radius=8, spread_radius=1, offset=ft.Offset(0, 2)),
